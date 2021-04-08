@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='Array1'/>
+        <page name='Array2'/>
+        <page name='Array3'/>
+        <page name='Dictionary1'/>
+        <page name='Dictionary2'/>
+        <page name='Dictionary3'/>
+        <page name='Set1'/>
+        <page name='Set2'/>
+        <page name='Iterating Collections'/>
+    </pages>
+</playground>
