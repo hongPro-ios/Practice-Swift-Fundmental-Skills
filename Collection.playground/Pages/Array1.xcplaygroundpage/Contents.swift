@@ -4,7 +4,6 @@ import Foundation
 
 
 // MARK: - Array Basics
-
 let strArray: Array<String> // 정식문법
 let shortStrArray: [String] // 단축문법
 
@@ -13,7 +12,6 @@ let emptyArray2 = Array<Int>()
 let emptyArray3 = [Int]()
 
 let zeroArray = [Int](repeating: 1, count: 5)
-
 
 // MARK: - Inspecting an Array
 zeroArray.count
