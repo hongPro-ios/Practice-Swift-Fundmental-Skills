@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='Instance Method'/>
+        <page name='Type Method'/>
+        <page name='Subscript'/>
+        <page name='Dynamic Member Lookup'/>
+    </pages>
+</playground>
