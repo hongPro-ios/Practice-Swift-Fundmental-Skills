@@ -8,3 +8,8 @@ https://hongjeongseob82.medium.com/ios-swift-collection-array-%EB%8B%A4%EB%A3%A8
 
 ## Method
 https://hongjeongseob82.medium.com/ios-swift-method-%EA%B8%B0%EC%B4%88-b9714f5b65fa
+
+## Error Handling
+kxcoding.errorHandling
+
+## Result Usage
